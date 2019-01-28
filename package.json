@@ -1,6 +1,6 @@
 {
   "name": "tinypng-free2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tinypng-free2",
   "main": "index.js",
   "scripts": {
@@ -14,11 +14,11 @@
     "tinypng"
   ],
   "devDependencies": {
-    "gulp": "~3.9.1",
-    "gulp-util": "~2.2.14",
-    "request": "~2.31.0",
-    "through2": "~0.4.2",
-    "crypto": "^1.0.1"
+    "crypto": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-util": "^3.0.8",
+    "request": "^2.88.0",
+    "through2": "^3.0.0"
   },
   "author": "duxy1995",
   "license": "ISC",
